@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\Projects\Exercicio-Classe_Professor\bin\Debug\Exercicio-Classe_Professor.exe.config
+H:\Visual Studio 2022\Projects\Exercicio-Classe_Professor\bin\Debug\Exercicio-Classe_Professor.exe
+H:\Visual Studio 2022\Projects\Exercicio-Classe_Professor\bin\Debug\Exercicio-Classe_Professor.pdb
+H:\Visual Studio 2022\Projects\Exercicio-Classe_Professor\obj\Debug\Exercicio-Classe_Professor.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Exercicio-Classe_Professor\obj\Debug\Exercicio-Classe_Professor.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Exercicio-Classe_Professor\obj\Debug\Exercicio-Classe_Professor.exe
+H:\Visual Studio 2022\Projects\Exercicio-Classe_Professor\obj\Debug\Exercicio-Classe_Professor.pdb
