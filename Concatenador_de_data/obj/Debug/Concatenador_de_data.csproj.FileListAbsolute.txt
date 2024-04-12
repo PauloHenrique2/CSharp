@@ -1,0 +1,8 @@
+C:\Users\paulo\Documents\Back-End\C#\Concatenador_de_data\bin\Debug\Concatenador_de_data.exe.config
+C:\Users\paulo\Documents\Back-End\C#\Concatenador_de_data\bin\Debug\Concatenador_de_data.exe
+C:\Users\paulo\Documents\Back-End\C#\Concatenador_de_data\bin\Debug\Concatenador_de_data.pdb
+C:\Users\paulo\Documents\Back-End\C#\Concatenador_de_data\obj\Debug\Concatenador_de_data.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\Back-End\C#\Concatenador_de_data\obj\Debug\Concatenador_de_data.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Documents\Back-End\C#\Concatenador_de_data\obj\Debug\Concatenador_de_data.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Back-End\C#\Concatenador_de_data\obj\Debug\Concatenador_de_data.exe
+C:\Users\paulo\Documents\Back-End\C#\Concatenador_de_data\obj\Debug\Concatenador_de_data.pdb
