@@ -1,0 +1,8 @@
+C:\Users\paulo\Documents\Back-End\C#\Pesquisa_de_audiencia\bin\Debug\Pesquisa_de_audiencia.exe.config
+C:\Users\paulo\Documents\Back-End\C#\Pesquisa_de_audiencia\bin\Debug\Pesquisa_de_audiencia.exe
+C:\Users\paulo\Documents\Back-End\C#\Pesquisa_de_audiencia\bin\Debug\Pesquisa_de_audiencia.pdb
+C:\Users\paulo\Documents\Back-End\C#\Pesquisa_de_audiencia\obj\Debug\Pesquisa_de_audiencia.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\Back-End\C#\Pesquisa_de_audiencia\obj\Debug\Pesquisa_de_audiencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Documents\Back-End\C#\Pesquisa_de_audiencia\obj\Debug\Pesquisa_de_audiencia.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Back-End\C#\Pesquisa_de_audiencia\obj\Debug\Pesquisa_de_audiencia.exe
+C:\Users\paulo\Documents\Back-End\C#\Pesquisa_de_audiencia\obj\Debug\Pesquisa_de_audiencia.pdb
