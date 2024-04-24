@@ -1,0 +1,7 @@
+C:\Users\paulo.vianna\Documents\Códigos-C#\Vetor\bin\Debug\Vetor.exe.config
+C:\Users\paulo.vianna\Documents\Códigos-C#\Vetor\bin\Debug\Vetor.exe
+C:\Users\paulo.vianna\Documents\Códigos-C#\Vetor\bin\Debug\Vetor.pdb
+C:\Users\paulo.vianna\Documents\Códigos-C#\Vetor\obj\Debug\Vetor.csproj.AssemblyReference.cache
+C:\Users\paulo.vianna\Documents\Códigos-C#\Vetor\obj\Debug\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\paulo.vianna\Documents\Códigos-C#\Vetor\obj\Debug\Vetor.exe
+C:\Users\paulo.vianna\Documents\Códigos-C#\Vetor\obj\Debug\Vetor.pdb
