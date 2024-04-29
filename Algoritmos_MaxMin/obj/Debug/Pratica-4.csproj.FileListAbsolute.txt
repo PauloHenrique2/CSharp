@@ -1,0 +1,14 @@
+H:\Visual Studio 2022\Projects\Pratica-4\bin\Debug\Pratica-4.exe.config
+H:\Visual Studio 2022\Projects\Pratica-4\bin\Debug\Pratica-4.exe
+H:\Visual Studio 2022\Projects\Pratica-4\bin\Debug\Pratica-4.pdb
+H:\Visual Studio 2022\Projects\Pratica-4\obj\Debug\Pratica-4.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Pratica-4\obj\Debug\Pratica-4.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Pratica-4\obj\Debug\Pratica-4.exe
+H:\Visual Studio 2022\Projects\Pratica-4\obj\Debug\Pratica-4.pdb
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-4\bin\Debug\Pratica-4.exe.config
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-4\bin\Debug\Pratica-4.exe
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-4\bin\Debug\Pratica-4.pdb
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-4\obj\Debug\Pratica-4.csproj.AssemblyReference.cache
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-4\obj\Debug\Pratica-4.csproj.CoreCompileInputs.cache
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-4\obj\Debug\Pratica-4.exe
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-4\obj\Debug\Pratica-4.pdb
