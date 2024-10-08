@@ -1,0 +1,8 @@
+C:\Users\paulo\Documents\Back-End\C#\Algoritmo_Guloso\bin\Debug\Algoritmo_Guloso.exe.config
+C:\Users\paulo\Documents\Back-End\C#\Algoritmo_Guloso\bin\Debug\Algoritmo_Guloso.exe
+C:\Users\paulo\Documents\Back-End\C#\Algoritmo_Guloso\bin\Debug\Algoritmo_Guloso.pdb
+C:\Users\paulo\Documents\Back-End\C#\Algoritmo_Guloso\obj\Debug\Algoritmo_Guloso.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\Back-End\C#\Algoritmo_Guloso\obj\Debug\Algoritmo_Guloso.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Documents\Back-End\C#\Algoritmo_Guloso\obj\Debug\Algoritmo_Guloso.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Back-End\C#\Algoritmo_Guloso\obj\Debug\Algoritmo_Guloso.exe
+C:\Users\paulo\Documents\Back-End\C#\Algoritmo_Guloso\obj\Debug\Algoritmo_Guloso.pdb
