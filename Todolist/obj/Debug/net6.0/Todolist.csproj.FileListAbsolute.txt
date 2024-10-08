@@ -1,0 +1,15 @@
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\bin\Debug\net6.0\Todolist.exe
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\bin\Debug\net6.0\Todolist.deps.json
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\bin\Debug\net6.0\Todolist.runtimeconfig.json
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\bin\Debug\net6.0\Todolist.dll
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\bin\Debug\net6.0\Todolist.pdb
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\Todolist.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\Todolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\Todolist.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\Todolist.AssemblyInfo.cs
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\Todolist.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\Todolist.dll
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\refint\Todolist.dll
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\Todolist.pdb
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\Todolist.genruntimeconfig.cache
+C:\Users\paulo\Documents\Programming\Back-End\C#\Todolist\obj\Debug\net6.0\ref\Todolist.dll
