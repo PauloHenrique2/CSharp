@@ -1,0 +1,7 @@
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-3\bin\Debug\Pratica-3.exe.config
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-3\bin\Debug\Pratica-3.exe
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-3\bin\Debug\Pratica-3.pdb
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-3\obj\Debug\Pratica-3.csproj.AssemblyReference.cache
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-3\obj\Debug\Pratica-3.csproj.CoreCompileInputs.cache
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-3\obj\Debug\Pratica-3.exe
+C:\Users\paulo.vianna\Documents\Códigos-C#\Pratica-3\obj\Debug\Pratica-3.pdb
