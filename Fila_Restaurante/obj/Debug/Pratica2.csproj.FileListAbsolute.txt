@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\Projects\Pratica2\bin\Debug\Pratica2.exe.config
+H:\Visual Studio 2022\Projects\Pratica2\bin\Debug\Pratica2.exe
+H:\Visual Studio 2022\Projects\Pratica2\bin\Debug\Pratica2.pdb
+H:\Visual Studio 2022\Projects\Pratica2\obj\Debug\Pratica2.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Pratica2\obj\Debug\Pratica2.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Pratica2\obj\Debug\Pratica2.exe
+H:\Visual Studio 2022\Projects\Pratica2\obj\Debug\Pratica2.pdb
