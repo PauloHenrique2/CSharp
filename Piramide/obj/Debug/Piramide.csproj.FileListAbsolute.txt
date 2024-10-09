@@ -1,0 +1,16 @@
+C:\Users\paulo\Documents\Back-End\C#\Piramide\bin\Debug\Piramide.exe.config
+C:\Users\paulo\Documents\Back-End\C#\Piramide\bin\Debug\Piramide.exe
+C:\Users\paulo\Documents\Back-End\C#\Piramide\bin\Debug\Piramide.pdb
+C:\Users\paulo\Documents\Back-End\C#\Piramide\obj\Debug\Piramide.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\Back-End\C#\Piramide\obj\Debug\Piramide.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Documents\Back-End\C#\Piramide\obj\Debug\Piramide.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Back-End\C#\Piramide\obj\Debug\Piramide.exe
+C:\Users\paulo\Documents\Back-End\C#\Piramide\obj\Debug\Piramide.pdb
+C:\Users\paulo\Documents\Programming\Back-End\CSharp\Piramide\bin\Debug\Piramide.exe.config
+C:\Users\paulo\Documents\Programming\Back-End\CSharp\Piramide\bin\Debug\Piramide.exe
+C:\Users\paulo\Documents\Programming\Back-End\CSharp\Piramide\bin\Debug\Piramide.pdb
+C:\Users\paulo\Documents\Programming\Back-End\CSharp\Piramide\obj\Debug\Piramide.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\Programming\Back-End\CSharp\Piramide\obj\Debug\Piramide.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo\Documents\Programming\Back-End\CSharp\Piramide\obj\Debug\Piramide.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Programming\Back-End\CSharp\Piramide\obj\Debug\Piramide.exe
+C:\Users\paulo\Documents\Programming\Back-End\CSharp\Piramide\obj\Debug\Piramide.pdb
