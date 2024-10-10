@@ -1,0 +1,15 @@
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\bin\Debug\net6.0\Projeto_Consulta_Medica.exe
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\bin\Debug\net6.0\Projeto_Consulta_Medica.deps.json
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\bin\Debug\net6.0\Projeto_Consulta_Medica.runtimeconfig.json
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\bin\Debug\net6.0\Projeto_Consulta_Medica.dll
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\bin\Debug\net6.0\Projeto_Consulta_Medica.pdb
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\Projeto_Consulta_Medica.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\Projeto_Consulta_Medica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\Projeto_Consulta_Medica.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\Projeto_Consulta_Medica.AssemblyInfo.cs
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\Projeto_Consulta_Medica.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\Projeto_Consulta_Medica.dll
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\refint\Projeto_Consulta_Medica.dll
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\Projeto_Consulta_Medica.pdb
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\Projeto_Consulta_Medica.genruntimeconfig.cache
+C:\Users\paulo\Documents\Programming\Back-End\C#\Projeto_Consulta_Medica\obj\Debug\net6.0\ref\Projeto_Consulta_Medica.dll
