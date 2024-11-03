@@ -1,0 +1,14 @@
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\bin\Debug\net8.0\Projeto_Dado.exe
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\bin\Debug\net8.0\Projeto_Dado.deps.json
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\bin\Debug\net8.0\Projeto_Dado.runtimeconfig.json
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\bin\Debug\net8.0\Projeto_Dado.dll
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\bin\Debug\net8.0\Projeto_Dado.pdb
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\obj\Debug\net8.0\Projeto_Dado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\obj\Debug\net8.0\Projeto_Dado.AssemblyInfoInputs.cache
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\obj\Debug\net8.0\Projeto_Dado.AssemblyInfo.cs
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\obj\Debug\net8.0\Projeto_Dado.csproj.CoreCompileInputs.cache
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\obj\Debug\net8.0\Projeto_Dado.dll
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\obj\Debug\net8.0\refint\Projeto_Dado.dll
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\obj\Debug\net8.0\Projeto_Dado.pdb
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\obj\Debug\net8.0\Projeto_Dado.genruntimeconfig.cache
+C:\Users\paulo.vianna\Documents\Códigos-C#\Projeto_Dado\obj\Debug\net8.0\ref\Projeto_Dado.dll
